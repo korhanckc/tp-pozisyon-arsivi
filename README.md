@@ -20,4 +20,5 @@ Claude veya başka AI: bu repo **public**; dosyaları raw URL ile kendin çek.
 | M.Ç | Mustafa Çulcu |
 | D.Ç | Deniz Çoban |
 
-`[A]` = otomatik altyazı / konuşmacı belirsizliği.
+Her dolu yorumcu satırı `Karar · https://…` biçimindedir. `[A]` = otomatik altyazı / konuşmacı belirsizliği.
+`@tartismalar` yalnızca başka hakemlerin alıntılı teyitleri için kullanılır; hesap sahibinin şahsi yorumu yok sayılır.
