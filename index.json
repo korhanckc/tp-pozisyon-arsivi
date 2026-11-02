@@ -1,0 +1,20 @@
+{
+  "updated_at": "2026-11-02T20:11:00+03:00",
+  "matches": [
+    {
+      "id": "2026-11-01-kasimpasa-besiktas",
+      "date": "2026-11-01",
+      "title": "Kasımpaşa – Beşiktaş (1 Kas)",
+      "file": "matches/2026-11-01-kasimpasa-besiktas.json"
+    }
+  ],
+  "commentators": {
+    "trio": "Trio (hesap bekleniyor)",
+    "fa": "Fırat Aydınus",
+    "dab": "Deniz Ateş Bitnel @dabitnel",
+    "bg": "Bünyamin Gezer (IG reel)",
+    "mc": "Mustafa Çulcu (A Spor)",
+    "dc": "Deniz Çoban (Fanatik)"
+  },
+  "read_me": "AI: rapor için data/matches/*.json oku; format için python3 /workspace/scripts/format_pozisyon_raporu.py"
+}

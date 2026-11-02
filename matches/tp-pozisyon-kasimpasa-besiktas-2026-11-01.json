@@ -1,0 +1,111 @@
+{
+  "id": "2026-11-01-kasimpasa-besiktas",
+  "date": "2026-11-01",
+  "home": "Kasımpaşa",
+  "away": "Beşiktaş",
+  "score": "2-2",
+  "referee": "Reşat Onur Coşkunses",
+  "var": "Christian-Petru Ciochirca",
+  "title": "Kasımpaşa – Beşiktaş (1 Kas)",
+  "items": [
+    {
+      "minute": "5'",
+      "desc": "Agbadou–Hayrudinović çekme (bariz gol şansı)",
+      "trio": "",
+      "fa": "kırmızı (DOGSO)",
+      "dab": "kırmızı",
+      "bg": "kırmızı",
+      "mc": "kırmızı olmalıydı; hakem/VAR vermedi [A: altyazı panel/Mustafa hoca]",
+      "dc": "",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "0:48:48",
+          "note": "auto-sub"
+        }
+      }
+    },
+    {
+      "minute": "~",
+      "desc": "Murillo kırmızı tartışması (ayak)",
+      "trio": "",
+      "fa": "kırmızı",
+      "dab": "kırmızı",
+      "bg": "kırmızı",
+      "mc": "kırmızı doğru olurdu (oyuncu adı altyazıda net değil) [A]",
+      "dc": "",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "1:17:22"
+        }
+      }
+    },
+    {
+      "minute": "57'",
+      "desc": "İlhan Fakılı yerde / penaltı beklentisi",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "penaltı yok (eller bedende eyleme dönüşmüyor) [A]",
+      "dc": "",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "1:19:02"
+        }
+      }
+    },
+    {
+      "minute": "~",
+      "desc": "Agbadou ceza sahası topa müdahale",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "penaltı/faul yok; temiz hamle [A]",
+      "dc": "",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "1:21:21"
+        }
+      }
+    },
+    {
+      "minute": "gol öncesi",
+      "desc": "Kasımpaşa golü – Nübel’e faul tartışması",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "kaleciye faul yok; Salih’e faul çalınmış [A]",
+      "dc": "",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "1:22:54"
+        }
+      }
+    },
+    {
+      "minute": "80'",
+      "desc": "Topsuz alanda tokat (Arous / Vlahović)",
+      "trio": "",
+      "fa": "kırmızı",
+      "dab": "kırmızı",
+      "bg": "kırmızı",
+      "mc": "kırmızı (şiddetli hareket); hakem sarı, VAR yok [A]",
+      "dc": "kırmızı (Winck erken düdük bağlamı da)",
+      "sources": {
+        "mc": {
+          "url": "https://youtu.be/POgVY5dZnd8",
+          "t": "1:26:12"
+        }
+      }
+    }
+  ],
+  "audited_at": "2026-11-02T20:11:00+03:00",
+  "notes": "FA/DAB/BG satırları önceki sohbet özetinden; mc POgVY5dZnd8 altyazısından denetli. [A]=otomatik altyazı belirsizliği. Trio hesabı bekleniyor."
+}
