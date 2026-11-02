@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:11:00+03:00",
+  "updated_at": "2026-11-02T23:20:00+03:00",
   "matches": [
     {
       "id": "2026-11-01-kasimpasa-besiktas",
@@ -9,12 +9,13 @@
     }
   ],
   "commentators": {
-    "trio": "Trio (hesap bekleniyor)",
-    "fa": "Fırat Aydınus",
+    "trio": "Trio (beIN; alıntı @tartismalar)",
+    "fa": "Fırat Aydınus (alıntı @tartismalar / IG-YT)",
     "dab": "Deniz Ateş Bitnel @dabitnel",
-    "bg": "Bünyamin Gezer (IG reel)",
+    "bg": "Bünyamin Gezer (IG reel; alıntı @tartismalar)",
     "mc": "Mustafa Çulcu (A Spor)",
     "dc": "Deniz Çoban (Fanatik)"
   },
-  "read_me": "AI: rapor için data/matches/*.json oku; format için python3 /workspace/scripts/format_pozisyon_raporu.py"
+  "format": "Her dolu yorumcu satırı · kaynak URL ile biter. Boş = —",
+  "read_me": "AI: data/matches/*.json; python3 /workspace/scripts/format_pozisyon_raporu.py"
 }
