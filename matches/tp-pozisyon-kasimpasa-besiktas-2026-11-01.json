@@ -10,35 +10,45 @@
   "items": [
     {
       "minute": "5'",
-      "desc": "Agbadou–Hayrudinović çekme (bariz gol şansı)",
-      "trio": "",
+      "desc": "Agbadou–Hajradinovic çekme (bariz gol şansı)",
+      "trio": "kırmızı (DOGSO); VAR müdahalesi gerekir",
       "fa": "kırmızı (DOGSO)",
       "dab": "kırmızı",
-      "bg": "kırmızı",
+      "bg": "kırmızı (bariz gol şansı)",
       "mc": "kırmızı olmalıydı; hakem/VAR vermedi [A: altyazı panel/Mustafa hoca]",
-      "dc": "",
+      "dc": "kırmızı (bariz gol şansı engeli)",
       "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116958672316244309",
+        "fa": "https://x.com/Tartismalar/status/2117287123011211378",
+        "dab": "https://x.com/dabitnel/status/2116930312991383794",
+        "bg": "https://x.com/Tartismalar/status/2116992983811621247",
         "mc": {
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "0:48:48",
           "note": "auto-sub"
-        }
+        },
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
       }
     },
     {
-      "minute": "~",
-      "desc": "Murillo kırmızı tartışması (ayak)",
-      "trio": "",
+      "minute": "40'",
+      "desc": "Murillo–Ayberk kırmızı tartışması (ayak)",
+      "trio": "kırmızı (şiddetli hareket)",
       "fa": "kırmızı",
       "dab": "kırmızı",
-      "bg": "kırmızı",
+      "bg": "kırmızı; VAR gerekir",
       "mc": "kırmızı doğru olurdu (oyuncu adı altyazıda net değil) [A]",
-      "dc": "",
+      "dc": "kırmızı (ekstra sert hareket)",
       "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116959116480377123",
+        "fa": "https://x.com/Tartismalar/status/2117287123011211378",
+        "dab": "https://x.com/dabitnel/status/2116939684081504765",
+        "bg": "https://x.com/Tartismalar/status/2117002761308897517",
         "mc": {
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:17:22"
-        }
+        },
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
       }
     },
     {
@@ -90,22 +100,27 @@
       }
     },
     {
-      "minute": "80'",
+      "minute": "79'",
       "desc": "Topsuz alanda tokat (Arous / Vlahović)",
-      "trio": "",
+      "trio": "kırmızı (şiddetli hareket); VAR gerekir",
       "fa": "kırmızı",
       "dab": "kırmızı",
       "bg": "kırmızı",
       "mc": "kırmızı (şiddetli hareket); hakem sarı, VAR yok [A]",
       "dc": "kırmızı (Winck erken düdük bağlamı da)",
       "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116959480143294541",
+        "fa": "https://x.com/Tartismalar/status/2117287123011211378",
+        "dab": "https://x.com/dabitnel/status/2116948954021777659",
+        "bg": "https://x.com/Tartismalar/status/2117003636433641651",
         "mc": {
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:26:12"
-        }
+        },
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
       }
     }
   ],
-  "audited_at": "2026-11-02T20:11:00+03:00",
-  "notes": "FA/DAB/BG satırları önceki sohbet özetinden; mc POgVY5dZnd8 altyazısından denetli. [A]=otomatik altyazı belirsizliği. Trio hesabı bekleniyor."
+  "audited_at": "2026-11-02T23:20:00+03:00",
+  "notes": "Kaynak linkleri yorumcu satırında zorunlu. FA/Trio/B.G = @tartismalar alıntılı hakem teyitleri. D.A.B X; D.Ç Fanatik; M.Ç A Spor [A]."
 }
