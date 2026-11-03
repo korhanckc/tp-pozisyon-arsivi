@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-01-trabzonspor-gaziantep",
+  "date": "2026-11-01",
+  "home": "Trabzonspor",
+  "away": "Gaziantep FK",
+  "score": "2-0",
+  "referee": "Buğra Taşkınsoy",
+  "var": "",
+  "title": "Trabzonspor – Gaziantep FK (1 Kas)",
+  "items": [
+    {
+      "minute": "2. gol öncesi",
+      "desc": "Trabzonspor’un ikinci golü öncesi topun ele çarpması",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "ihlal yok (gol geçerli)",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643081"
+      }
+    },
+    {
+      "minute": "63'",
+      "desc": "Sorescu (Gaziantep) penaltı beklentisi",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "penaltı yok; oyuncu kendini basitçe bıraktı, “devam” doğru",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643081"
+      }
+    }
+  ],
+  "audited_at": "2026-11-03T10:30:00+03:00",
+  "notes": "D.Ç Fanatik ‘Sorunsuz yönetim’ (2 Kas 06:59). Diğer yorumcular için bu maça dair somut pozisyon yorumu bulunamadı (3 Kas kontrolü)."
+}

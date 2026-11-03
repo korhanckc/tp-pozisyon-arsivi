@@ -9,6 +9,7 @@ Claude veya başka AI: bu repo **public**; dosyaları raw URL ile kendin çek.
 - Raw: https://raw.githubusercontent.com/korhanckc/tp-pozisyon-arsivi/main/matches/tp-pozisyon-kasimpasa-besiktas-2026-11-01.md
 - Yapılandırılmış JSON: [`matches/2026-11-01-kasimpasa-besiktas.json`](matches/2026-11-01-kasimpasa-besiktas.json)
 - Index: [`index.json`](index.json)
+- Trabzonspor–Gaziantep (1 Kas): [`matches/tp-pozisyon-trabzonspor-gaziantep-2026-11-01.md`](matches/tp-pozisyon-trabzonspor-gaziantep-2026-11-01.md) — raw: https://raw.githubusercontent.com/korhanckc/tp-pozisyon-arsivi/main/matches/tp-pozisyon-trabzonspor-gaziantep-2026-11-01.md
 
 ## Anahtarlar
 | Kod | Kaynak |
@@ -20,5 +21,5 @@ Claude veya başka AI: bu repo **public**; dosyaları raw URL ile kendin çek.
 | M.Ç | Mustafa Çulcu |
 | D.Ç | Deniz Çoban |
 
-Her dolu yorumcu satırı `Karar · https://…` biçimindedir. `[A]` = otomatik altyazı / konuşmacı belirsizliği.
+Her dolu yorumcu satırı `Karar · https://…` biçimindedir. `[A]` = otomatik altyazı / konuşmacı belirsizliği. `[özet alıntı]` = @tartismalar özet tweetindeki atıf. `Hak.` = diğer adlı hakem alıntısı.
 `@tartismalar` yalnızca başka hakemlerin alıntılı teyitleri için kullanılır; hesap sahibinin şahsi yorumu yok sayılır.
