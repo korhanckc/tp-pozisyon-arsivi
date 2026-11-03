@@ -27,8 +27,10 @@
           "t": "0:48:48",
           "note": "auto-sub"
         },
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
-      }
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086",
+        "hak": "https://x.com/Tartismalar/status/2117312716834795963"
+      },
+      "hak": "Bülent Yıldırım: kırmızı"
     },
     {
       "minute": "40'",
@@ -48,24 +50,30 @@
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:17:22"
         },
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
-      }
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086",
+        "hak": "https://x.com/Tartismalar/status/2117312716834795963"
+      },
+      "hak": "Bülent Yıldırım: kırmızı"
     },
     {
       "minute": "57'",
       "desc": "İlhan Fakılı yerde / penaltı beklentisi",
       "trio": "",
-      "fa": "",
+      "fa": "penaltı değil [özet alıntı]",
       "dab": "",
-      "bg": "",
+      "bg": "penaltı değil [özet alıntı]",
       "mc": "penaltı yok (eller bedende eyleme dönüşmüyor) [A]",
       "dc": "",
       "sources": {
         "mc": {
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:19:02"
-        }
-      }
+        },
+        "fa": "https://x.com/Tartismalar/status/2117312716834795963",
+        "bg": "https://x.com/Tartismalar/status/2117312716834795963",
+        "hak": "https://x.com/Tartismalar/status/2117312716834795963"
+      },
+      "hak": "Bülent Yıldırım: penaltı değil"
     },
     {
       "minute": "~",
@@ -84,20 +92,25 @@
       }
     },
     {
-      "minute": "gol öncesi",
-      "desc": "Kasımpaşa golü – Nübel’e faul tartışması",
+      "minute": "78'",
+      "desc": "Kasımpaşa gol iptali (Winck–Salih müdahalesi / Nübel’e faul tartışması)",
       "trio": "",
-      "fa": "",
+      "fa": "gol iptali doğru [özet alıntı]",
       "dab": "",
-      "bg": "",
+      "bg": "gol iptali doğru [özet alıntı]",
       "mc": "kaleciye faul yok; Salih’e faul çalınmış [A]",
-      "dc": "",
+      "dc": "gol iptali doğru (Winck’in Salih’in yüz/kafasına dikkatsiz müdahalesi); ancak düdük top girmeden çalındı, VAR devre dışı kaldı",
       "sources": {
         "mc": {
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:22:54"
-        }
-      }
+        },
+        "fa": "https://x.com/Tartismalar/status/2117312716834795963",
+        "bg": "https://x.com/Tartismalar/status/2117312716834795963",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086",
+        "hak": "https://x.com/Tartismalar/status/2117312716834795963"
+      },
+      "hak": "Bülent Yıldırım: gol iptali doğru"
     },
     {
       "minute": "79'",
@@ -117,10 +130,12 @@
           "url": "https://youtu.be/POgVY5dZnd8",
           "t": "1:26:12"
         },
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086"
-      }
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/3-kirmizi-karti-atladi-2643086",
+        "hak": "https://x.com/Tartismalar/status/2117312716834795963"
+      },
+      "hak": "Bülent Yıldırım: kırmızı"
     }
   ],
-  "audited_at": "2026-11-02T23:20:00+03:00",
-  "notes": "Kaynak linkleri yorumcu satırında zorunlu. FA/Trio/B.G = @tartismalar alıntılı hakem teyitleri. D.A.B X; D.Ç Fanatik; M.Ç A Spor [A]."
+  "audited_at": "2026-11-03T10:30:00+03:00",
+  "notes": "Kaynak linkleri yorumcu satırında zorunlu. FA/Trio/B.G = @tartismalar alıntılı hakem teyitleri. D.A.B X; D.Ç Fanatik; M.Ç A Spor [A]. 3 Kas: İlhan ve gol iptali için F.A/B.G + Bülent Yıldırım (Hak.) @tartismalar özet tweetinden ([özet alıntı]); D.Ç 78' Fanatik’ten."
 }
