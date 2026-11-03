@@ -1,0 +1,84 @@
+{
+  "id": "2026-10-30-konyaspor-galatasaray",
+  "date": "2026-10-30",
+  "home": "Konyaspor",
+  "away": "Galatasaray",
+  "score": "0-4",
+  "referee": "Cihan Aydın",
+  "var": "Alan Kijas",
+  "title": "Konyaspor – Galatasaray (30 Eki)",
+  "items": [
+    {
+      "minute": "7'",
+      "desc": "Sakatlık sonrası Leao’nun top oyundayken oyuna alınması",
+      "trio": "",
+      "fa": "hakem hatası; risk almamalı, maçın en büyük teknik hatası",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "hata; Leao haksız avantaj kazandı",
+      "sources": {
+        "fa": "https://youtu.be/9KKxuFFqJiQ?t=1321",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/varin-mudahalesi-yerindeydi-2642886"
+      }
+    },
+    {
+      "minute": "26'",
+      "desc": "Uğurcan–Rayyan çarpışması (Konyaspor penaltı beklentisi)",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "penaltı yok; doğal mücadele",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/varin-mudahalesi-yerindeydi-2642886"
+      }
+    },
+    {
+      "minute": "27' (Trio: 52')",
+      "desc": "Rayyan’ın Leao’ya müdahalesi – VAR sonrası GS lehine penaltı",
+      "trio": "penaltı %100 doğru; hakem VAR’a bırakmamalıydı",
+      "fa": "penaltı; bu kadar açık pozisyonu VAR’a bırakmamalı",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "net penaltı; VAR müdahalesi yerinde",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116248829024497894",
+        "fa": "https://youtu.be/9KKxuFFqJiQ?t=1454",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/varin-mudahalesi-yerindeydi-2642886"
+      }
+    },
+    {
+      "minute": "29'",
+      "desc": "Eren’in koluna temas (Konyaspor penaltı beklentisi)",
+      "trio": "devam doğru; top kapalı sol kola geldi",
+      "fa": "[A] net değil: yalnız sol kolsa değil, sağ (açık) kola sektiyse penaltı",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "penaltı yok; kol doğal konumda",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116248075815584127",
+        "fa": "https://youtu.be/9KKxuFFqJiQ?t=1380",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/varin-mudahalesi-yerindeydi-2642886"
+      }
+    },
+    {
+      "minute": "GS golü",
+      "desc": "Osimhen’in golde ihlali",
+      "trio": "",
+      "fa": "",
+      "dab": "ihlal yok, gol doğru",
+      "bg": "",
+      "mc": "",
+      "dc": "",
+      "sources": {
+        "dab": "https://x.com/dabitnel/status/2116217314668646909"
+      }
+    }
+  ],
+  "audited_at": "2026-11-03T16:45:00+03:00",
+  "notes": "B.G, M.Ç için somut yorum bulunamadı. Dakika uyuşmazlığı: penaltı D.Ç’ye göre 27', Trio’ya göre 52'."
+}

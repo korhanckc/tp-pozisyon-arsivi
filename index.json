@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-03T10:30:00+03:00",
+  "updated_at": "2026-11-03T16:45:00+03:00",
   "matches": [
+    {
+      "id": "2026-10-30-konyaspor-galatasaray",
+      "date": "2026-10-30",
+      "title": "Konyaspor – Galatasaray (30 Eki)",
+      "file": "matches/2026-10-30-konyaspor-galatasaray.json"
+    },
+    {
+      "id": "2026-10-31-fenerbahce-goztepe",
+      "date": "2026-10-31",
+      "title": "Fenerbahçe – Göztepe (31 Eki)",
+      "file": "matches/2026-10-31-fenerbahce-goztepe.json"
+    },
     {
       "id": "2026-11-01-kasimpasa-besiktas",
       "date": "2026-11-01",

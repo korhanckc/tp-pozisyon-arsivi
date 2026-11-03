@@ -12,13 +12,14 @@
       "minute": "2. gol öncesi",
       "desc": "Trabzonspor’un ikinci golü öncesi topun ele çarpması",
       "trio": "",
-      "fa": "",
+      "fa": "ihlal yok; doğal konumda ele çarpma, gol geçerli",
       "dab": "",
       "bg": "",
       "mc": "",
       "dc": "ihlal yok (gol geçerli)",
       "sources": {
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643081"
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643081",
+        "fa": "https://youtu.be/9KKxuFFqJiQ?t=1080"
       }
     },
     {
@@ -35,6 +36,6 @@
       }
     }
   ],
-  "audited_at": "2026-11-03T10:30:00+03:00",
-  "notes": "D.Ç Fanatik ‘Sorunsuz yönetim’ (2 Kas 06:59). Diğer yorumcular için bu maça dair somut pozisyon yorumu bulunamadı (3 Kas kontrolü)."
+  "audited_at": "2026-11-03T16:45:00+03:00",
+  "notes": "D.Ç Fanatik ‘Sorunsuz yönetim’ (2 Kas 06:59). Diğer yorumcular için bu maça dair somut pozisyon yorumu bulunamadı (3 Kas kontrolü). F.A eklendi (YouTube 9KKxuFFqJiQ, 3 Kas)."
 }

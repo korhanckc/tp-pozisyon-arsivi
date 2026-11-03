@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-31-fenerbahce-goztepe",
+  "date": "2026-10-31",
+  "home": "Fenerbahçe",
+  "away": "Göztepe",
+  "score": "1-2",
+  "referee": "Oğuzhan Çakır",
+  "var": "Alan Kijas",
+  "title": "Fenerbahçe – Göztepe (31 Eki)",
+  "items": [
+    {
+      "minute": "11'",
+      "desc": "Semedo’nun kaval kemiğine müdahalesi",
+      "trio": "sarı kart olmalıydı",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2116630720932458698"
+      }
+    },
+    {
+      "minute": "41'",
+      "desc": "Semedo’nun Miroshi’yi çekmesi (DOGSO?) – hakem sarı",
+      "trio": "",
+      "fa": "sarı doğru; %100 bariz gol şansı denemez, VAR’ın girmemesi doğru",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "kırmızı daha doğruydu; öncesindeki faulde de sarı gerekirdi",
+      "sources": {
+        "fa": "https://youtu.be/9KKxuFFqJiQ?t=1148",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/tartismali-iki-karar-2642977"
+      }
+    },
+    {
+      "minute": "47'",
+      "desc": "Akonnor’un Kerem’e faulü – hakem sarı",
+      "trio": "",
+      "fa": "",
+      "dab": "",
+      "bg": "",
+      "mc": "",
+      "dc": "kırmızı olmalıydı (bariz gol şansı)",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/tartismali-iki-karar-2642977"
+      }
+    }
+  ],
+  "audited_at": "2026-11-03T16:45:00+03:00",
+  "notes": "D.A.B yalnızca soru tweet’i attı (karar yok). B.G, M.Ç için somut yorum bulunamadı."
+}
