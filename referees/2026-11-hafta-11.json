@@ -1,0 +1,145 @@
+{
+  "id": "2026-11-hafta-11",
+  "competition": "Trendyol Süper Lig",
+  "week": 11,
+  "season": "2026-27 Adnan Süvari",
+  "announced_at": "2026-11-05T12:02:32+03:00",
+  "updated_at": "2026-11-05T14:45+03:00",
+  "kind": "match_officials",
+  "var_status": "pending",
+  "source": {
+    "account": "@MHK_Resmi",
+    "url": "https://x.com/MHK_Resmi/status/2118267711063314922",
+    "post_id": "2118267711063314922",
+    "image": "referees/2026-11-hafta-11-mhk.jpg"
+  },
+  "matches": [
+    {
+      "date": "2026-11-06",
+      "kickoff": "20:00",
+      "home": "Gaziantep FK",
+      "away": "Kasımpaşa",
+      "referee": "Ümit Öztürk",
+      "assistants": [
+        "Gökmen Baltacı",
+        "Yusuf Susuz"
+      ],
+      "fourth": "Erdem Mertoğlu",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-07",
+      "kickoff": "13:30",
+      "home": "Eyüpspor",
+      "away": "Kocaelispor",
+      "referee": "Melek Dakan",
+      "assistants": [
+        "Selahattin Altay",
+        "Samet Çiçek"
+      ],
+      "fourth": "Yiğit Arslan",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-07",
+      "kickoff": "16:00",
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "referee": "Gürcan Hasova",
+      "assistants": [
+        "Mert Bulut",
+        "Selim Şenöz"
+      ],
+      "fourth": "İlker Yasin Avcı",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-07",
+      "kickoff": "19:00",
+      "home": "Göztepe",
+      "away": "İstanbul Başakşehir",
+      "referee": "Çağdaş Altay",
+      "assistants": [
+        "Samet Çavuş",
+        "Kerem İlitangil"
+      ],
+      "fourth": "Oğuzhan Aksu",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-07",
+      "kickoff": "19:00",
+      "home": "Galatasaray",
+      "away": "Amed Sportif Faaliyetler",
+      "referee": "Halil Umut Meler",
+      "assistants": [
+        "İbrahim Çağlar Uyarcan",
+        "Abdullah Bora Özkara"
+      ],
+      "fourth": "Kadir Sağlam",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-08",
+      "kickoff": "13:30",
+      "home": "Çaykur Rizespor",
+      "away": "Erzurumspor FK",
+      "referee": "Direnç Tonusluoğlu",
+      "assistants": [
+        "Ali Can Alp",
+        "Mücahid Adem Çelebi"
+      ],
+      "fourth": "Burak Pakkan",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-08",
+      "kickoff": "16:00",
+      "home": "Çorum FK",
+      "away": "Fenerbahçe",
+      "referee": "Abdullah Buğra Taşkınsoy",
+      "assistants": [
+        "Bersan Duran",
+        "Mustafa Savranlar"
+      ],
+      "fourth": "Alper Akarsu",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-08",
+      "kickoff": "18:30",
+      "home": "Alanyaspor",
+      "away": "Trabzonspor",
+      "referee": "Oğuzhan Çakır",
+      "assistants": [
+        "Erkan Akbulut",
+        "Özcan Sultanoğlu"
+      ],
+      "fourth": "Fatih Tokail",
+      "var": null,
+      "avar": null
+    },
+    {
+      "date": "2026-11-08",
+      "kickoff": "21:00",
+      "home": "Beşiktaş",
+      "away": "Gençlerbirliği",
+      "referee": "Atilla Karaoğlan",
+      "assistants": [
+        "Gökhan Barcın",
+        "Murat Ergin Gözütok"
+      ],
+      "fourth": "Alpaslan Şen",
+      "var": null,
+      "avar": null
+    }
+  ],
+  "notes": "İlk duyuru yalnızca saha görevlileri (orta/yardımcı/4.). VAR ve AVAR henüz açıklanmadı; açıklandığında bu dosya güncellenir."
+}
