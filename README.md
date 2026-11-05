@@ -24,13 +24,14 @@ Claude veya başka AI: bu repo **public**; dosyaları raw URL ile kendin çek.
 Her dolu yorumcu satırı `Karar · https://…` biçimindedir. `[A]` = otomatik altyazı / konuşmacı belirsizliği. `[özet alıntı]` = @tartismalar özet tweetindeki atıf. `Hak.` = diğer adlı hakem alıntısı.
 `@tartismalar` yalnızca başka hakemlerin alıntılı teyitleri için kullanılır; hesap sahibinin şahsi yorumu yok sayılır.
 
-## Hakem / VAR atamaları (Claude için)
+## Hakem / VAR atamaları (`atamalar/`)
 
-Yalnızca [@MHK_Resmi](https://x.com/MHK_Resmi) kaynak alınır. Orta hakem + yardımcı + 4. duyurusu ve sonraki VAR/AVAR duyurusu `referees/` altına yazılır; Claude raw URL ile çeker.
+Pozisyon dosyalarına dokunulmaz. Süper Lig saha + VAR/AVAR atamaları:
 
-- Index: [`referees/index.json`](referees/index.json) — raw: https://raw.githubusercontent.com/korhanckc/tp-pozisyon-arsivi/main/referees/index.json
-- 11. hafta: [`referees/2026-11-hafta-11.md`](referees/2026-11-hafta-11.md) — JSON: https://raw.githubusercontent.com/korhanckc/tp-pozisyon-arsivi/main/referees/2026-11-hafta-11.json
-- Kaynak post: https://x.com/MHK_Resmi/status/2118267711063314922
+- Klasör: [`atamalar/`](atamalar/)
+- Hafta dosyası: `atamalar/super-lig-2026-27-hafta-NN.json` (tek dosya; VAR gelince aynı dosya güncellenir)
+- 11. hafta: [`atamalar/super-lig-2026-27-hafta-11.json`](atamalar/super-lig-2026-27-hafta-11.json)
+- Claude raw: https://raw.githubusercontent.com/korhanckc/tp-pozisyon-arsivi/main/atamalar/super-lig-2026-27-hafta-11.json
 
-`var_status`: `pending` = yalnızca saha görevlileri; `complete` = VAR/AVAR da dolduruldu.
+Kaynak kuralı: yalnızca açıklanmış TFF/MHK (veya aktaran haber) + `kaynaklar` linki. Açıklanmamış alan `null` / yardımcılar `[]`.
 
