@@ -1,0 +1,86 @@
+{
+  "matches": [
+    {
+      "title": "Rizespor – Erzurumspor (8 Kas)",
+      "items": [
+        {
+          "minute": "8'",
+          "desc": "Kerk'in ceza sahası içi düşmesi (penaltı beklentisi)",
+          "trio": "devam doğru; kontrolsüzlük yok, kaçınılmaz temas [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4191
+            }
+          }
+        },
+        {
+          "minute": "9'",
+          "desc": "Ceza sahası içi elle oynama iddiası",
+          "trio": "penaltı yok; oyun gereği el teması, devam doğru [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4269
+            }
+          }
+        },
+        {
+          "minute": "44'",
+          "desc": "Kerk'e sarı kart",
+          "trio": "sarı doğru bulunmadı; tasarruf edilebilirdi [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4356
+            }
+          }
+        },
+        {
+          "minute": "45+1'",
+          "desc": "Cardoso'nun sarı kartı",
+          "trio": "sarı doğru (kontrolsüz / gecikmiş müdahale) [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4429
+            }
+          }
+        },
+        {
+          "minute": "53'",
+          "desc": "Aris'in çift ayaklı müdahalesi (kart çıkmadı)",
+          "trio": "faul ve sarı olmalıydı; kaçırıldı [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4505
+            }
+          }
+        },
+        {
+          "minute": "83'",
+          "desc": "Eren'in kafa vuruşunda elle oynama iddiası",
+          "trio": "elle oynama / penaltı yok [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4592
+            }
+          }
+        },
+        {
+          "minute": "90+1'",
+          "desc": "Mustafa Yumlu'nun sarı kartı (yüze kol)",
+          "trio": "sarı doğru [A]",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+              "t": 4638
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
