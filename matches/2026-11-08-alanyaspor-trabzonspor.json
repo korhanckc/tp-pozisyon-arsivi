@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-08-alanyaspor-trabzonspor",
+  "date": "2026-11-08",
+  "home": "Alanyaspor",
+  "away": "Trabzonspor",
+  "referee": "Oğuzhan Çakır",
+  "title": "Alanyaspor – Trabzonspor (8 Kas)",
+  "items": [
+    {
+      "minute": "",
+      "desc": "Maç sonlarında Salah'ın ceza sahasında düşmesi (ofsayt bayrağı)",
+      "dc": "çok küçük temas, Salah abarttı; penaltı yok, ofsayt bayrağı hakemi hatadan kurtardı",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sifir-sikinti-2643884"
+      }
+    },
+    {
+      "minute": "",
+      "desc": "Karşılıklı birer sarı kart",
+      "dc": "iki sarı da doğru",
+      "sources": {
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sifir-sikinti-2643884"
+      }
+    }
+  ]
+}

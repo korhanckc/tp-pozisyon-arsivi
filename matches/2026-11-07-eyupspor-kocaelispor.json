@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-07-eyupspor-kocaelispor",
+  "date": "2026-11-07",
+  "home": "Eyüpspor",
+  "away": "Kocaelispor",
+  "referee": "Melek Dakan",
+  "title": "Eyüpspor – Kocaelispor (7 Kas)",
+  "items": [
+    {
+      "minute": "27'",
+      "desc": "Yerdeki mücadelede ayağa basma",
+      "trio": "kazara temas, devam doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4124
+        }
+      }
+    },
+    {
+      "minute": "44'",
+      "desc": "Berkan'ın elle oynama/penaltı beklentisi",
+      "trio": "top gövdeye çarptı, sol kola temas yok; penaltı yok, karar doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4189
+        }
+      }
+    },
+    {
+      "minute": "52'",
+      "desc": "Kaleci Moldova'nın ceza sahası dışında tuttuğu gerekçesiyle verilen serbest vuruş",
+      "trio": "top çizgi üzerindeydi, ihlal yok; yardımcı hakemin bayrağı hatalı, hakem devam demeliydi",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4324
+        }
+      }
+    },
+    {
+      "minute": "",
+      "desc": "Abdülkerim'in penaltı beklentisi",
+      "trio": "savunmacı topa dokundu, penaltı yok",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4648
+        }
+      }
+    },
+    {
+      "minute": "63'",
+      "desc": "Tayfur Bingöl'ün sarı kartı",
+      "trio": "kontrolsüz faul, sarı %100 doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4718
+        }
+      }
+    },
+    {
+      "minute": "82'",
+      "desc": "Kontrolsüz sıçrama/el yüze (sarı kart)",
+      "trio": "sarı doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4778
+        }
+      }
+    },
+    {
+      "minute": "83'",
+      "desc": "Kontra atağı kesen taktik faul (sarı kart)",
+      "trio": "taktik faul, sarı doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 4811
+        }
+      }
+    }
+  ]
+}

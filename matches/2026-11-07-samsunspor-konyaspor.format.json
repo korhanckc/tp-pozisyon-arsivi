@@ -1,0 +1,104 @@
+{
+  "matches": [
+    {
+      "id": "2026-11-07-samsunspor-konyaspor",
+      "date": "2026-11-07",
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "referee": "Gürcan Hasova",
+      "title": "Samsunspor – Konyaspor (7 Kas)",
+      "items": [
+        {
+          "minute": "4'",
+          "desc": "Koulibaly'yi durduran faul (kart yok)",
+          "trio": "kontrolsüz değil, sadece faul doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 2730
+            }
+          }
+        },
+        {
+          "minute": "14'",
+          "desc": "Samet'in sarı kartı",
+          "trio": "hız alarak kontrolsüz müdahale, sarı doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 2827
+            }
+          }
+        },
+        {
+          "minute": "45'",
+          "desc": "Penaltı beklentisi (kalecinin küçük teması)",
+          "trio": "etkisi yok, devam doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 2966
+            }
+          }
+        },
+        {
+          "minute": "84'",
+          "desc": "Enis Destan'a kırmızı, VAR/OFR sonrası sarıya çevrildi",
+          "trio": "şiddetli hareket yok, sarı doğru; VAR müdahalesi doğru. Öncesinde Enis lehine faul kaçtı",
+          "dab": "rakibin ayağını tutup çekiyor; VAR doğru müdahale etti, sarı doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 3079
+            },
+            "dab": "https://x.com/dabitnel/status/2119079534230470843"
+          }
+        },
+        {
+          "minute": "90+2'",
+          "desc": "Oyuncu değişikliğinde 10 saniye kuralı (oyuncu alınmadı)",
+          "trio": "kural doğru uygulandı",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 3728
+            }
+          }
+        },
+        {
+          "minute": "90+3'",
+          "desc": "Muleka'nın ceza sahasında düşmesi",
+          "trio": "kendini bıraktı, devam doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 3861
+            }
+          }
+        },
+        {
+          "minute": "90+5'",
+          "desc": "Mendes'in Muleka'ya faulü (sarı kart)",
+          "trio": "sarı doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 3927
+            }
+          }
+        },
+        {
+          "minute": "90+6'",
+          "desc": "Oyun sonu sarı kart (Melih'e müdahale)",
+          "trio": "sarı doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 3991
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

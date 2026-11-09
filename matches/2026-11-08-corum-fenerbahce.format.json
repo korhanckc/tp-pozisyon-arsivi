@@ -1,0 +1,30 @@
+{
+  "matches": [
+    {
+      "id": "2026-11-08-corum-fenerbahce",
+      "date": "2026-11-08",
+      "home": "Çorum FK",
+      "away": "Fenerbahçe",
+      "referee": "Abdullah Buğra Taşkınsoy",
+      "title": "Çorum FK – Fenerbahçe (8 Kas)",
+      "items": [
+        {
+          "minute": "",
+          "desc": "Semedo'nun sarı kartı",
+          "dc": "sarı doğru",
+          "sources": {
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643878"
+          }
+        },
+        {
+          "minute": "",
+          "desc": "Diomande'nin sarı kartı",
+          "dc": "hakem fazla titiz; sadece faul yeterliydi",
+          "sources": {
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643878"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "2026-11-06-gaziantep-kasimpasa",
+  "date": "2026-11-06",
+  "home": "Gaziantep FK",
+  "away": "Kasımpaşa",
+  "referee": "Ümit Öztürk",
+  "title": "Gaziantep FK – Kasımpaşa (6 Kas)",
+  "items": [
+    {
+      "minute": "2'",
+      "desc": "Sorescu'nun yüzüne darbe beklentisi",
+      "trio": "ihlal yok, devam doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 81
+        }
+      }
+    },
+    {
+      "minute": "10'",
+      "desc": "Kerim'in Saki'ye müdahalesi (faul)",
+      "trio": "sadece faul, kart gerekmez",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 126
+        }
+      }
+    },
+    {
+      "minute": "16'",
+      "desc": "Gaziantep'in penaltı beklentisi (Mendes'in eli)",
+      "trio": "küçük temas, devam doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 280
+        }
+      }
+    },
+    {
+      "minute": "19'",
+      "desc": "Kasımpaşa'ya verilen penaltı (Claudio Winck düşürüldü)",
+      "trio": "penaltı %100 doğru (dikkatsiz müdahale)",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 382
+        }
+      }
+    },
+    {
+      "minute": "30'",
+      "desc": "Sorescu'nun itirazdan sarı kartı",
+      "trio": "kart doğru ama ters verilen taç nedeniyle önlenebilirdi; hakemin ilk hatası",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 515
+        }
+      }
+    },
+    {
+      "minute": "36'",
+      "desc": "Mendes'in Kozlowski'ye müdahalesi (sarı kart)",
+      "trio": "sınırda; güç transferi yok, sarı doğru ve yeterli",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 581
+        }
+      }
+    },
+    {
+      "minute": "60'",
+      "desc": "Adem Arous'a elle oynama/penaltı beklentisi",
+      "trio": "kollar vücuda yapışık, penaltı yok",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 793
+        }
+      }
+    },
+    {
+      "minute": "65'",
+      "desc": "Mendes'e Ogün'ün faulü (kart çıkmadı)",
+      "trio": "faul yeterli, sarı gerekmez; doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 821
+        }
+      }
+    },
+    {
+      "minute": "82'",
+      "desc": "Ayberk'in sarı kartı",
+      "trio": "ısrarlı faul, sarı %100 doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 895
+        }
+      }
+    },
+    {
+      "minute": "90+1'",
+      "desc": "Ogün'ün kayarak müdahalesi (kart çıkmadı)",
+      "trio": "kontrolsüz faul, sarı görmeliydi",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=xleLb1Oghro",
+          "t": 990
+        }
+      }
+    }
+  ]
+}

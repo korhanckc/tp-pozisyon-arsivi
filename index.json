@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:25:00+03:00",
+  "updated_at": "2026-11-09T13:00:00+03:00",
   "matches": [
     {
       "id": "2026-10-30-konyaspor-galatasaray",
@@ -26,10 +26,52 @@
       "file": "matches/2026-11-01-trabzonspor-gaziantep.json"
     },
     {
+      "id": "2026-11-06-gaziantep-kasimpasa",
+      "date": "2026-11-06",
+      "title": "Gaziantep FK – Kasımpaşa (6 Kas)",
+      "file": "matches/2026-11-06-gaziantep-kasimpasa.json"
+    },
+    {
+      "id": "2026-11-07-eyupspor-kocaelispor",
+      "date": "2026-11-07",
+      "title": "Eyüpspor – Kocaelispor (7 Kas)",
+      "file": "matches/2026-11-07-eyupspor-kocaelispor.json"
+    },
+    {
+      "id": "2026-11-07-galatasaray-amedspor",
+      "date": "2026-11-07",
+      "title": "Galatasaray – Amedspor (7 Kas)",
+      "file": "matches/2026-11-07-galatasaray-amedspor.json"
+    },
+    {
+      "id": "2026-11-07-goztepe-basaksehir",
+      "date": "2026-11-07",
+      "title": "Göztepe – Başakşehir (7 Kas)",
+      "file": "matches/2026-11-07-goztepe-basaksehir.json"
+    },
+    {
+      "id": "2026-11-07-samsunspor-konyaspor",
+      "date": "2026-11-07",
+      "title": "Samsunspor – Konyaspor (7 Kas)",
+      "file": "matches/2026-11-07-samsunspor-konyaspor.json"
+    },
+    {
+      "id": "2026-11-08-alanyaspor-trabzonspor",
+      "date": "2026-11-08",
+      "title": "Alanyaspor – Trabzonspor (8 Kas)",
+      "file": "matches/2026-11-08-alanyaspor-trabzonspor.json"
+    },
+    {
       "id": "2026-11-08-besiktas-genclerbirligi",
       "date": "2026-11-08",
       "title": "Beşiktaş – Gençlerbirliği (8 Kas)",
       "file": "matches/2026-11-08-besiktas-genclerbirligi.json"
+    },
+    {
+      "id": "2026-11-08-corum-fenerbahce",
+      "date": "2026-11-08",
+      "title": "Çorum FK – Fenerbahçe (8 Kas)",
+      "file": "matches/2026-11-08-corum-fenerbahce.json"
     }
   ],
   "commentators": {
