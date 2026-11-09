@@ -15,11 +15,15 @@
       "sources": {
         "trio": "https://x.com/Tartismalar/status/2119567117129519456",
         "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119491284113019207"
-      }
+        "dab": "https://x.com/dabitnel/status/2119491284113019207",
+        "fa": "https://x.com/firataydinus/status/2119494646325756113",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      },
+      "fa": "sarı; diz kırık, güç transferi az",
+      "dc": "sarı doğru; kırmızı yoğunluğu yok, diz bükülü"
     },
     {
-      "minute": "",
+      "minute": "16'",
       "desc": "Metehan Baltacı'nın ikinci sarısı / kırmızı kart (Vlahovic'i formasından çekme)",
       "trio": "her iki sarı da doğru",
       "bg": "iki sarı da doğru",
@@ -27,7 +31,19 @@
       "sources": {
         "trio": "https://x.com/Tartismalar/status/2119569950515888463",
         "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119505647364645030"
+        "dab": "https://x.com/dabitnel/status/2119505647364645030",
+        "fa": "https://x.com/firataydinus/status/2119497600688660493",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      },
+      "fa": "ikinci sarıdan kırmızı doğru",
+      "dc": "iki sarı da doğru"
+    },
+    {
+      "minute": "",
+      "desc": "Beşiktaş'ın golünden önce faul iddiası",
+      "fa": "faul yok",
+      "sources": {
+        "fa": "https://x.com/firataydinus/status/2119497600688660493"
       }
     },
     {
@@ -39,8 +55,12 @@
       "sources": {
         "trio": "https://x.com/Tartismalar/status/2119573101684076850",
         "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119514615067390376"
-      }
+        "dab": "https://x.com/dabitnel/status/2119514615067390376",
+        "fa": "https://x.com/firataydinus/status/2119509606237909249",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      },
+      "fa": "VAR bariz gol şansından kırmızı önerdi, hakem uymadı (karara eleştiri)",
+      "dc": "ihlal dışarıda; net bariz gol şansı, kırmızı olmalıydı"
     },
     {
       "minute": "",

@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-07-goztepe-basaksehir",
+  "date": "2026-11-07",
+  "home": "Göztepe",
+  "away": "Başakşehir",
+  "referee": "Çağdaş Altay",
+  "title": "Göztepe – Başakşehir (7 Kas)",
+  "items": [
+    {
+      "minute": "13'",
+      "desc": "Ömer Ali–Antunes çarpışması (Başakşehir lehine faul)",
+      "trio": "faul kararı yanlış; çarpışma, devam olmalıydı (faul varsa Göztepe lehine)",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2049
+        }
+      }
+    },
+    {
+      "minute": "40'",
+      "desc": "Faulden sarı kart (ayağa basma)",
+      "trio": "kontrolsüz müdahale, sarı doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2115
+        }
+      }
+    },
+    {
+      "minute": "49'",
+      "desc": "Hava topunda kol yüze (sarı kart)",
+      "trio": "kolun kural dışı kullanımı, sarı doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2180
+        }
+      }
+    },
+    {
+      "minute": "55'",
+      "desc": "Selke'nin ceza sahasında düşmesi",
+      "trio": "küçük temas, penaltı yok; devam doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2247
+        }
+      }
+    },
+    {
+      "minute": "59'",
+      "desc": "Hava topunda kolun Selke'nin yüzüne gelmesi (kart çıkmadı)",
+      "trio": "sarı görmeliydi, kaçtı",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2377
+        }
+      }
+    },
+    {
+      "minute": "67'",
+      "desc": "Hava topunda engelleme faulü (kart çıkmadı)",
+      "trio": "sadece faul, kart gerekmez",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2441
+        }
+      }
+    },
+    {
+      "minute": "78'",
+      "desc": "Aynı oyuncunun ikinci kol-yüz müdahalesi (sarı kart)",
+      "trio": "net sarı, doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+          "t": 2504
+        }
+      }
+    }
+  ]
+}

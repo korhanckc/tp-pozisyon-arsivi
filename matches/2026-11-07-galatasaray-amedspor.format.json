@@ -1,0 +1,191 @@
+{
+  "matches": [
+    {
+      "id": "2026-11-07-galatasaray-amedspor",
+      "date": "2026-11-07",
+      "home": "Galatasaray",
+      "away": "Amedspor",
+      "referee": "Halil Umut Meler",
+      "title": "Galatasaray – Amedspor (7 Kas)",
+      "items": [
+        {
+          "minute": "5'",
+          "desc": "Lemina'nın faulü (kart çıkmadı)",
+          "trio": "küçük temas, sadece faul yeterli",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 66
+            }
+          }
+        },
+        {
+          "minute": "7'",
+          "desc": "Gol sevincinde oyuncuların başını formayla kapatması (kart çıkmadı)",
+          "trio": "1, en fazla 2 oyuncuya (başlatan Jakobs ya da Leao) sarı gösterilmeliydi; hakem atladı",
+          "dab": "sarı kart olmalıydı",
+          "bg": "kartsız geçilmemeliydi; 1, en fazla 2 oyuncuya (Leao, Jakobs) sarı",
+          "mc": "[A] kurala göre kart gerekir; 2–3 oyuncuya gösterilmeli, hiç çıkmaması kabul edilemez",
+          "dc": "kural gereği sarı; tercihen golü atan bir oyuncuya kart yeterdi",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 134
+            },
+            "dab": "https://x.com/dabitnel/status/2119115538882576560",
+            "bg": {
+              "url": "https://www.youtube.com/watch?v=G-BBWQpU5uk",
+              "t": 1944
+            },
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=NFek_un9sGo",
+              "t": 65
+            },
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kontrollu-yonetim-2643775"
+          }
+        },
+        {
+          "minute": "7'",
+          "desc": "İlk golden önce Barış Alper'in ofsaytı",
+          "trio": "pasif kaldı, ofsayt yok",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 585
+            }
+          }
+        },
+        {
+          "minute": "16'",
+          "desc": "Orban'ın formadan çekilmesi ve kart istemesi",
+          "trio": "faul, sarı gerekmez; Orban'a da kart gerekmezdi",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 688
+            }
+          }
+        },
+        {
+          "minute": "20'",
+          "desc": "Batrakov'un rakibine el-yüz müdahalesi (kart çıkmadı)",
+          "trio": "net sarı görmeliydi",
+          "mc": "[A] faul yeterli, kart gerekmez",
+          "dc": "kontrolsüz müdahale, sarı gerekirdi",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 822
+            },
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=2WhYCKxMgK0",
+              "t": 100
+            },
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kontrollu-yonetim-2643775"
+          }
+        },
+        {
+          "minute": "31'",
+          "desc": "Lafont'un topu ceza sahası içinde tutup tutmadığı",
+          "trio": "içeride tuttu, ihlal yok",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1018
+            }
+          }
+        },
+        {
+          "minute": "40'",
+          "desc": "Bates'in Barış Alper'e faulü (kart çıkmadı)",
+          "trio": "umut vadeden atak + ayağa basma, sarı olmalıydı",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1084
+            }
+          }
+        },
+        {
+          "minute": "47'",
+          "desc": "Orban'ın Sallai'ye hücum faulü",
+          "trio": "faul kararı yanlış",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1217
+            }
+          }
+        },
+        {
+          "minute": "49'",
+          "desc": "Raveloson'un sarı kartı",
+          "trio": "taktik faul, sarı %100 doğru",
+          "mc": "[A] net sarı, doğru",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1282
+            },
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=2WhYCKxMgK0",
+              "t": 133
+            }
+          }
+        },
+        {
+          "minute": "61'",
+          "desc": "Torreira'nın Diagne Saba'ya faulü (gol öncesi) ve Orban'ın sarı kartı",
+          "trio": "faul doğru; Orban'ın sarısı doğru",
+          "mc": "[A] Orban'ın sarısı doğru; Torreira'nın hareketi doğal çarpışma, faul yok",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1414
+            },
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=2WhYCKxMgK0",
+              "t": 197
+            }
+          }
+        },
+        {
+          "minute": "74'",
+          "desc": "Bates'in sarı kartı",
+          "trio": "basma kazara; sürekli ihlalden sarı doğru",
+          "mc": "[A] kazara basma, kart yok; yanlış kart",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1652
+            },
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=2WhYCKxMgK0",
+              "t": 974
+            }
+          }
+        },
+        {
+          "minute": "77'",
+          "desc": "Orban'ın ceza sahasında Sallai ile mücadelede düşmesi",
+          "trio": "ikili mücadele, penaltı yok; devam doğru",
+          "dab": "ihlal yok, devam doğru",
+          "mc": "[A] ikisi de topa oynuyor, penaltı yok",
+          "dc": "ihlal yok, devam kararı haklı",
+          "sources": {
+            "trio": {
+              "url": "https://www.youtube.com/watch?v=g6_7hG5oYrs",
+              "t": 1754
+            },
+            "dab": "https://x.com/dabitnel/status/2119122720051155377",
+            "mc": {
+              "url": "https://www.youtube.com/watch?v=2WhYCKxMgK0",
+              "t": 1038
+            },
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kontrollu-yonetim-2643775"
+          }
+        }
+      ]
+    }
+  ]
+}
