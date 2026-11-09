@@ -7,20 +7,92 @@
   "title": "Çorum FK – Fenerbahçe (8 Kas)",
   "items": [
     {
+      "minute": "4'",
+      "desc": "Fenerbahçe atağında ofsayt iddiası",
+      "trio": "yardımcı doğru; ofsaytta olmayan oyuncuyla devam [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3298
+        }
+      }
+    },
+    {
+      "minute": "29'",
+      "desc": "Diomande'nin yerde kaldığı faul",
+      "trio": "sadece faul, sarı düşünülmez [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3418
+        }
+      }
+    },
+    {
+      "minute": "32'",
+      "desc": "Avantaj uygulaması sonrası kart beklentisi",
+      "trio": "avantaj doğru; sarı gerekmez [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3485
+        }
+      }
+    },
+    {
+      "minute": "38'",
+      "desc": "Diomande'nin sarı kartı",
+      "trio": "faul doğru ama sarı hatalı / tasarruf edilebilirdi [A]",
+      "dc": "hakem fazla titiz; sadece faul yeterliydi",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3549
+        },
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643878"
+      }
+    },
+    {
+      "minute": "40'",
+      "desc": "Levent'in Cengiz'e kol müdahalesi (kart çıkmadı)",
+      "trio": "sarı kaçmış; kol arayıp buluyor [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3663
+        }
+      }
+    },
+    {
+      "minute": "52'",
+      "desc": "Şikrinyer'ın rakibe müdahale iddiası",
+      "trio": "ihlal yok, devam doğru [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3897
+        }
+      }
+    },
+    {
+      "minute": "72'",
+      "desc": "İsmail'in müdahalesi (faul çalındı)",
+      "trio": "devam ettirse daha doğru olurdu [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 3948
+        }
+      }
+    },
+    {
       "minute": "",
       "desc": "Semedo'nun sarı kartı",
       "dc": "sarı doğru",
       "sources": {
         "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643878"
       }
-    },
-    {
-      "minute": "",
-      "desc": "Diomande'nin sarı kartı",
-      "dc": "hakem fazla titiz; sadece faul yeterliydi",
-      "sources": {
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sorunsuz-yonetim-2643878"
-      }
     }
-  ]
+  ],
+  "updated_at": "2026-11-09T15:45:00+03:00"
 }

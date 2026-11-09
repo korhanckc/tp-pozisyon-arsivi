@@ -9,58 +9,127 @@
     {
       "minute": "2'",
       "desc": "Ndidi'nin rakibine müdahalesi (sarı kart)",
-      "trio": "sarı doğru (sınırda; diz kırık, güç transferi yoğun değil)",
-      "bg": "sarı doğru, kırmızı olmaz",
-      "dab": "sarı doğru, kırmızı olmaz",
-      "sources": {
-        "trio": "https://x.com/Tartismalar/status/2119567117129519456",
-        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119491284113019207",
-        "fa": "https://x.com/firataydinus/status/2119494646325756113",
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
-      },
+      "trio": "sarı doğru (sınırda; diz bükülü, güç transferi yoğun değil) [A]",
       "fa": "sarı; diz kırık, güç transferi az",
-      "dc": "sarı doğru; kırmızı yoğunluğu yok, diz bükülü"
+      "dab": "sarı doğru, kırmızı olmaz",
+      "bg": "sarı doğru, kırmızı olmaz",
+      "dc": "sarı doğru; kırmızı yoğunluğu yok, diz bükülü",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 73
+        },
+        "fa": "https://x.com/firataydinus/status/2119494646325756113",
+        "dab": "https://x.com/dabitnel/status/2119491284113019207",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      }
     },
     {
-      "minute": "16'",
-      "desc": "Metehan Baltacı'nın ikinci sarısı / kırmızı kart (Vlahovic'i formasından çekme)",
-      "trio": "her iki sarı da doğru",
-      "bg": "iki sarı da doğru",
-      "dab": "2. sarıdan kırmızı doğru",
+      "minute": "8'",
+      "desc": "Metehan'ın Emirhan'a gecikmiş müdahalesi (kart çıkmadı)",
+      "trio": "sarı düşünülebilirdi; uyarı tercihini de kabul edilebilir buluyorlar [A]",
       "sources": {
-        "trio": "https://x.com/Tartismalar/status/2119569950515888463",
-        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119505647364645030",
-        "fa": "https://x.com/firataydinus/status/2119497600688660493",
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
-      },
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 235
+        }
+      }
+    },
+    {
+      "minute": "10'",
+      "desc": "Oğulcan'ın yüzüne temas iddiası",
+      "trio": "doğal aksiyon teması, sarı gerekmez [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 335
+        }
+      }
+    },
+    {
+      "minute": "11'",
+      "desc": "Trossard'ın hakeme itirazı",
+      "trio": "uyarı yeterli; sarı sınırda, yönetim tercihi kabul [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 443
+        }
+      }
+    },
+    {
+      "minute": "16'/22'",
+      "desc": "Metehan Baltacı'nın iki sarısı / kırmızı (forma çekme)",
+      "trio": "her iki sarı da doğru; ikinci sarıdan kırmızı tartışmasız [A]",
       "fa": "ikinci sarıdan kırmızı doğru",
-      "dc": "iki sarı da doğru"
+      "dab": "2. sarıdan kırmızı doğru",
+      "bg": "iki sarı da doğru",
+      "dc": "iki sarı da doğru",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 579
+        },
+        "fa": "https://x.com/firataydinus/status/2119497600688660493",
+        "dab": "https://x.com/dabitnel/status/2119505647364645030",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      }
     },
     {
       "minute": "",
       "desc": "Beşiktaş'ın golünden önce faul iddiası",
+      "trio": "faul yok, gol temiz [A]",
       "fa": "faul yok",
       "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 704
+        },
         "fa": "https://x.com/firataydinus/status/2119497600688660493"
+      }
+    },
+    {
+      "minute": "33'",
+      "desc": "Beşiktaşlı oyuncunun (Murho) kaleci önünde itmesi / sarı",
+      "trio": "sarı doğru; gereksiz sportmenliğe aykırı itme [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 989
+        }
       }
     },
     {
       "minute": "49'",
       "desc": "Diabate'nin Orkun'a faulü (ceza sahası dışı; sarı verildi)",
-      "trio": "kırmızı olmalıydı (bariz gol şansı)",
-      "bg": "kırmızı olmalıydı (bariz gol şansı)",
-      "dab": "kırmızı olmalıydı (bariz gol şansı)",
-      "sources": {
-        "trio": "https://x.com/Tartismalar/status/2119573101684076850",
-        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
-        "dab": "https://x.com/dabitnel/status/2119514615067390376",
-        "fa": "https://x.com/firataydinus/status/2119509606237909249",
-        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
-      },
+      "trio": "kırmızı olmalıydı (bariz gol şansı); VAR çağrısı doğru, hakem hatası [A]",
       "fa": "VAR bariz gol şansından kırmızı önerdi, hakem uymadı (karara eleştiri)",
-      "dc": "ihlal dışarıda; net bariz gol şansı, kırmızı olmalıydı"
+      "dab": "kırmızı olmalıydı (bariz gol şansı)",
+      "bg": "kırmızı olmalıydı (bariz gol şansı)",
+      "dc": "ihlal dışarıda; net bariz gol şansı, kırmızı olmalıydı",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 1435
+        },
+        "fa": "https://x.com/firataydinus/status/2119509606237909249",
+        "dab": "https://x.com/dabitnel/status/2119514615067390376",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/kirmiziyi-atladi-2643893"
+      }
+    },
+    {
+      "minute": "55'",
+      "desc": "Orkun Kökçü'nün forma çekmesi (sarı)",
+      "trio": "sarı doğru; sportmenliğe aykırı çekme [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 1902
+        }
+      }
     },
     {
       "minute": "",
@@ -71,14 +140,18 @@
       }
     },
     {
-      "minute": "",
+      "minute": "78'",
       "desc": "Salih Özcan'ın rakibe el-yüz hareketi",
-      "trio": "sarı görmeliydi (kontrolsüz faul)",
+      "trio": "sarı görmeliydi (kontrolsüz faul; kırmızı değil) [A]",
       "dab": "kırmızı görmeliydi",
       "sources": {
-        "trio": "https://x.com/Tartismalar/status/2119574547837878278",
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 1949
+        },
         "dab": "https://x.com/dabitnel/status/2119529821760029110"
       }
     }
-  ]
+  ],
+  "updated_at": "2026-11-09T15:45:00+03:00"
 }

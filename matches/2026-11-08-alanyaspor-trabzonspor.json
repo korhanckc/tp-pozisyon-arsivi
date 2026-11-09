@@ -7,6 +7,105 @@
   "title": "Alanyaspor – Trabzonspor (8 Kas)",
   "items": [
     {
+      "minute": "4'",
+      "desc": "Ruhan'ın düşmesi / faul iddiası",
+      "trio": "faul yok, devam doğru [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2222
+        }
+      }
+    },
+    {
+      "minute": "25'",
+      "desc": "Muçu'ya müdahale (kart çıkmadı)",
+      "trio": "sarı vermeme kabul edilebilir [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2268
+        }
+      }
+    },
+    {
+      "minute": "61'",
+      "desc": "Onana'nın rakibe teması (hücum faul)",
+      "trio": "hücum faul doğru; sarı düşünülmez [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2344
+        }
+      }
+    },
+    {
+      "minute": "72'",
+      "desc": "Fabinho'nun kontrolsüz teması (kart çıkmadı)",
+      "trio": "sarı olmalıydı [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2439
+        }
+      }
+    },
+    {
+      "minute": "73'",
+      "desc": "Bank'ın ceza sahasında düşmesi (penaltı beklentisi)",
+      "trio": "penaltı yok; kendini bırakmış [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2503
+        }
+      }
+    },
+    {
+      "minute": "82'",
+      "desc": "Enes elle oynama beklentisi",
+      "trio": "elle oynama yok, devam doğru [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2653
+        }
+      }
+    },
+    {
+      "minute": "82'",
+      "desc": "Aliti'nin sarı kartı",
+      "trio": "sarı doğru [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2710
+        }
+      }
+    },
+    {
+      "minute": "90'",
+      "desc": "Yusuf'un Pina'ya faulü (sarı çıkmadı)",
+      "trio": "sarı olmalıydı; faul doğru ama kart atlandı [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2781
+        }
+      }
+    },
+    {
+      "minute": "90+4'",
+      "desc": "Maç sonu sarı kart",
+      "trio": "sarı doğru [A]",
+      "sources": {
+        "trio": {
+          "url": "https://www.youtube.com/watch?v=nu8p_nTf0g4",
+          "t": 2855
+        }
+      }
+    },
+    {
       "minute": "",
       "desc": "Maç sonlarında Salah'ın ceza sahasında düşmesi (ofsayt bayrağı)",
       "dc": "çok küçük temas, Salah abarttı; penaltı yok, ofsayt bayrağı hakemi hatadan kurtardı",
@@ -22,5 +121,6 @@
         "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban/sifir-sikinti-2643884"
       }
     }
-  ]
+  ],
+  "updated_at": "2026-11-09T15:45:00+03:00"
 }
