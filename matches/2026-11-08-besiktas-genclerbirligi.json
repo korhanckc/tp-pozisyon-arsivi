@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-08-besiktas-genclerbirligi",
+  "date": "2026-11-08",
+  "home": "Beşiktaş",
+  "away": "Gençlerbirliği",
+  "referee": "Atilla Karaoğlan",
+  "title": "Beşiktaş – Gençlerbirliği (8 Kas)",
+  "items": [
+    {
+      "minute": "2'",
+      "desc": "Ndidi'nin rakibine müdahalesi (sarı kart)",
+      "trio": "sarı doğru (sınırda; diz kırık, güç transferi yoğun değil)",
+      "bg": "sarı doğru, kırmızı olmaz",
+      "dab": "sarı doğru, kırmızı olmaz",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2119567117129519456",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dab": "https://x.com/dabitnel/status/2119491284113019207"
+      }
+    },
+    {
+      "minute": "",
+      "desc": "Metehan Baltacı'nın ikinci sarısı / kırmızı kart (Vlahovic'i formasından çekme)",
+      "trio": "her iki sarı da doğru",
+      "bg": "iki sarı da doğru",
+      "dab": "2. sarıdan kırmızı doğru",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2119569950515888463",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dab": "https://x.com/dabitnel/status/2119505647364645030"
+      }
+    },
+    {
+      "minute": "49'",
+      "desc": "Diabate'nin Orkun'a faulü (ceza sahası dışı; sarı verildi)",
+      "trio": "kırmızı olmalıydı (bariz gol şansı)",
+      "bg": "kırmızı olmalıydı (bariz gol şansı)",
+      "dab": "kırmızı olmalıydı (bariz gol şansı)",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2119573101684076850",
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593",
+        "dab": "https://x.com/dabitnel/status/2119514615067390376"
+      }
+    },
+    {
+      "minute": "",
+      "desc": "Rıdvan'ın hareketi",
+      "bg": "sarı kart görmeliydi",
+      "sources": {
+        "bg": "https://x.com/Tartismalar/status/2119547100606173593"
+      }
+    },
+    {
+      "minute": "",
+      "desc": "Salih Özcan'ın rakibe el-yüz hareketi",
+      "trio": "sarı görmeliydi (kontrolsüz faul)",
+      "dab": "kırmızı görmeliydi",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2119574547837878278",
+        "dab": "https://x.com/dabitnel/status/2119529821760029110"
+      }
+    }
+  ]
+}

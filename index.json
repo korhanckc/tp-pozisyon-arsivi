@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T16:45:00+03:00",
+  "updated_at": "2026-11-09T10:25:00+03:00",
   "matches": [
     {
       "id": "2026-10-30-konyaspor-galatasaray",
@@ -24,6 +24,12 @@
       "date": "2026-11-01",
       "title": "Trabzonspor – Gaziantep FK (1 Kas)",
       "file": "matches/2026-11-01-trabzonspor-gaziantep.json"
+    },
+    {
+      "id": "2026-11-08-besiktas-genclerbirligi",
+      "date": "2026-11-08",
+      "title": "Beşiktaş – Gençlerbirliği (8 Kas)",
+      "file": "matches/2026-11-08-besiktas-genclerbirligi.json"
     }
   ],
   "commentators": {
