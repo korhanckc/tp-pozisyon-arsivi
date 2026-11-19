@@ -1,0 +1,170 @@
+{
+  "lig": "super-lig",
+  "sezon": "2026-27",
+  "hafta": 12,
+  "guncelleme": "2026-11-19T13:46:00+03:00",
+  "maclar": [
+    {
+      "tarih": "2026-11-21",
+      "saat": "13:30",
+      "ev": "Gençlerbirliği",
+      "dep": "Gaziantep FK",
+      "hakem": "Halil Umut Meler",
+      "yardimcilar": [
+        "İbrahim Çağlar Uyarcan",
+        "Abdullah Bora Özkara"
+      ],
+      "dorduncu": "Batuhan Kolak",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-21",
+      "saat": "16:00",
+      "ev": "Amedspor",
+      "dep": "Rizespor",
+      "hakem": "Ümit Öztürk",
+      "yardimcilar": [
+        "Bahtiyar Birinci",
+        "Süleyman Özay"
+      ],
+      "dorduncu": "Emre Kargın",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-21",
+      "saat": "16:00",
+      "ev": "Galatasaray",
+      "dep": "Samsunspor",
+      "hakem": "Ali Şansalan",
+      "yardimcilar": [
+        "Mehmet Kısal",
+        "Osman Gökhan Bilir"
+      ],
+      "dorduncu": "Fatih Tokail",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-21",
+      "saat": "19:00",
+      "ev": "Kocaelispor",
+      "dep": "Fenerbahçe",
+      "hakem": "Kadir Sağlam",
+      "yardimcilar": [
+        "Anıl Usta",
+        "Murat Altan"
+      ],
+      "dorduncu": "Alpaslan Şen",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-22",
+      "saat": "13:30",
+      "ev": "Erzurumspor",
+      "dep": "Göztepe",
+      "hakem": "Alper Akarsu",
+      "yardimcilar": [
+        "Mehmet Salih Mazlum",
+        "Murat Şener"
+      ],
+      "dorduncu": "Yusuf Adnan Kendirciler",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-22",
+      "saat": "16:00",
+      "ev": "Kasımpaşa",
+      "dep": "Alanyaspor",
+      "hakem": "Davut Dakul Çelik",
+      "yardimcilar": [
+        "Kerem Ersoy",
+        "Ogün Kamacı"
+      ],
+      "dorduncu": "Melih Aldemir",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-22",
+      "saat": "16:00",
+      "ev": "Konyaspor",
+      "dep": "Beşiktaş",
+      "hakem": "Çağdaş Altay",
+      "yardimcilar": [
+        "Ceyhun Sesigüzel",
+        "Furkan Ürün"
+      ],
+      "dorduncu": "Erdem Mertoğlu",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-22",
+      "saat": "19:00",
+      "ev": "Trabzonspor",
+      "dep": "Eyüpspor",
+      "hakem": "Gürcan Hasova",
+      "yardimcilar": [
+        "Bilal Gölen",
+        "Murat Temel"
+      ],
+      "dorduncu": "Oğuzhan Aksu",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    },
+    {
+      "tarih": "2026-11-23",
+      "saat": "20:00",
+      "ev": "Başakşehir",
+      "dep": "Çorum FK",
+      "hakem": "Direnç Tonusluoğlu",
+      "yardimcilar": [
+        "Esat Sancaktar",
+        "Hüseyin Aylak"
+      ],
+      "dorduncu": "Burak Pakkan",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+      }
+    }
+  ]
+}
