@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-21-kocaelispor-fenerbahce",
+  "date": "2026-11-21",
+  "home": "Kocaelispor",
+  "away": "Fenerbahçe",
+  "referee": "Kadir Sağlam",
+  "title": "Kocaelispor – Fenerbahçe (21 Kas) 2-2",
+  "updated_at": "2026-11-22T10:00:00+03:00",
+  "items": [
+    {
+      "minute": "43'",
+      "desc": "Lukaku'nun el temasıyla attığı gol iptal (VAR'sız)",
+      "fa": "gol atan oyuncu elle müdahale ettiği için karar doğru",
+      "dab": "iptal doğru; aynı oyuncu elle gol atarsa iptal",
+      "mc": "karar doğru",
+      "sources": {
+        "fa": "https://www.hurriyet.com.tr/sporarena/firat-aydinus-galatasaray-ve-fenerbahce-maclarindaki-tartismali-pozisyonlari-degerlendirdi-hakem-ekibi-dogrudan-skora-tesir-etti-43386616",
+        "dab": "https://x.com/dabitnel/status/2124183624178123259",
+        "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/22/torreiranin-golu-iptal-edilmeliydi"
+      }
+    },
+    {
+      "minute": "68'",
+      "desc": "Semedo'nun elle oynaması, Kocaelispor penaltısı (VAR müdahalesiyle)",
+      "trio": "Semedo'nun kolu topa doğru uzanıyor, penaltı doğru",
+      "fa": "Semedo doğal konumda olmayan şekilde bilerek koluyla oynadı; Kadir Sağlam penaltıyı VAR'a bırakmamalıydı",
+      "dab": "penaltı ve VAR müdahalesi doğru (el topa gidiyor, vücuttan açılıyor)",
+      "mc": "net penaltı; hakemin önü açıktı, VAR'a kaldı",
+      "dc": "açık penaltı; hakem sahada veremedi, VAR müdahale etti",
+      "sources": {
+        "trio": "https://x.com/Tartismalar/status/2124207826893787349",
+        "fa": "https://www.hurriyet.com.tr/sporarena/firat-aydinus-galatasaray-ve-fenerbahce-maclarindaki-tartismali-pozisyonlari-degerlendirdi-hakem-ekibi-dogrudan-skora-tesir-etti-43386616",
+        "dab": "https://x.com/dabitnel/status/2124193383984111937",
+        "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/22/torreiranin-golu-iptal-edilmeliydi",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban"
+      }
+    },
+    {
+      "minute": "68'",
+      "desc": "Kaleci Ederson penaltıda sarı kart ve sonrası hareketler (ikinci sarı beklendi)",
+      "mc": "sarıdan sonra aynı hareketler sürdü, ikinci sarıdan atılmalıydı (ilk sarı gereksizdi)",
+      "dc": "penaltıda kaleci hareketleri nedeniyle sarı kart doğru",
+      "sources": {
+        "mc": "https://www.ahaber.com.tr/spor/fenerbahce/2026/11/21/mustafa-culcu-tartismali-pozisyonlari-tek-tek-yorumladi-ederson-torreira-ve-okan-buruk-kararlari",
+        "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban"
+      }
+    },
+    {
+      "minute": "82'",
+      "desc": "Skriniar'ın kafasında Dijksteel'in koluna gelen top (penaltı beklendi)",
+      "mc": "kol açık, penaltı; hakem de VAR da uyudu",
+      "sources": {
+        "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/22/torreiranin-golu-iptal-edilmeliydi"
+      }
+    }
+  ]
+}
