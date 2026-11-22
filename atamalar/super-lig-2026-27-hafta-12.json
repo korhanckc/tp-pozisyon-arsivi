@@ -2,7 +2,7 @@
   "lig": "super-lig",
   "sezon": "2026-27",
   "hafta": 12,
-  "guncelleme": "2026-11-21T12:05:56+03:00",
+  "guncelleme": "2026-11-22T12:06:00+03:00",
   "maclar": [
     {
       "tarih": "2026-11-21",
@@ -91,11 +91,12 @@
         "Murat Şener"
       ],
       "dorduncu": "Yusuf Adnan Kendirciler",
-      "var": null,
-      "avar": null,
+      "var": "Özer Özden",
+      "avar": "Abdullah Buğra Taşkınsoy",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
-        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "var": "https://x.com/MHK_Resmi/status/2124427414336045413"
       }
     },
     {
@@ -109,11 +110,12 @@
         "Ogün Kamacı"
       ],
       "dorduncu": "Melih Aldemir",
-      "var": null,
-      "avar": null,
+      "var": "Gustavo Fernandes Correia",
+      "avar": "Mehmet Emin Tuğral",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
-        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "var": "https://x.com/MHK_Resmi/status/2124427414336045413"
       }
     },
     {
@@ -127,11 +129,12 @@
         "Furkan Ürün"
       ],
       "dorduncu": "Erdem Mertoğlu",
-      "var": null,
-      "avar": null,
+      "var": "Matej Jug",
+      "avar": "Bersan Duran",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
-        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "var": "https://x.com/MHK_Resmi/status/2124427414336045413"
       }
     },
     {
@@ -145,11 +148,12 @@
         "Murat Temel"
       ],
       "dorduncu": "Oğuzhan Aksu",
-      "var": null,
-      "avar": null,
+      "var": "Ferhan Kestanlıoğlu",
+      "avar": "Mustafa Savranlar",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
-        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "var": "https://x.com/MHK_Resmi/status/2124427414336045413"
       }
     },
     {
