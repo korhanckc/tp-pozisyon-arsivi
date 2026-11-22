@@ -1,0 +1,65 @@
+{
+  "matches": [
+    {
+      "title": "Galatasaray – Samsunspor (21 Kas) 2-1",
+      "items": [
+        {
+          "minute": "4'",
+          "desc": "Torreira'nın golü: Abdülkerim ofsayt/kaleci görüşü, Barış Alper ofsayt etkisi; VAR gol verdi",
+          "trio": "net ofsayt, gol iptal edilmeliydi (Abdülkerim kalecinin ~3,5 m önünde, eğilerek hareket)",
+          "fa": "ofsayt sebebiyle iptal edilmeliydi; Abdülkerim kaleci görüşünü etkiliyor, VAR müdahale etmeliydi",
+          "dab": "ofsayt, gol iptal edilmeliydi (Abdülkerim kaleciyi etkiliyor)",
+          "bg": "yüzde 100 ofsayt; VAR Erkan Engin müdahale etmeliydi (Barış Alper için çizgi istiyor)",
+          "mc": "net duble ofsayt, gol iptal edilmeliydi; VAR hakemi çağırmalıydı",
+          "dc": "net ofsayt, iptal edilmeliydi; VAR müdahale gerekirdi, ofsayt çizgisi çekilmedi",
+          "sources": {
+            "trio": "https://x.com/Tartismalar/status/2124209492048953525",
+            "fa": "https://x.com/Tartismalar/status/2124165830019785003",
+            "dab": "https://www.tv100.com/galatasaray-samsunspor-macinda-cok-konusulacak-pozisyon-torreiranin-golunde-ofsayt-var-mi-eski-hakemler-son-noktayi-koydu-haber-880206",
+            "bg": "https://www.hedefhalk.com/galatasaray-samsunspor-macindaki-tartismali-gol-sonrasi-bunyamin-gezer-var-hakemine-tepki-gosterdi/1836137",
+            "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/22/torreiranin-golu-iptal-edilmeliydi",
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban"
+          }
+        },
+        {
+          "minute": "52'",
+          "desc": "Mendes'in Barış Alper'e faulü (ikinci sarı beklendi)",
+          "fa": "Mendes 2. sarıdan kırmızı görmeliydi",
+          "mc": "Mendes ikinci sarıdan atılmalıydı",
+          "dc": "ikinci sarıyla oyun dışı kalması gerekirdi",
+          "sources": {
+            "fa": "https://www.hurriyet.com.tr/sporarena/firat-aydinus-galatasaray-ve-fenerbahce-maclarindaki-tartismali-pozisyonlari-degerlendirdi-hakem-ekibi-dogrudan-skora-tesir-etti-43386616",
+            "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/22/torreiranin-golu-iptal-edilmeliydi",
+            "dc": "https://www.fanatik.com.tr/yazarlar/deniz-coban"
+          }
+        },
+        {
+          "minute": "—",
+          "desc": "Samsunspor'un beklediği penaltı pozisyonları",
+          "fa": "devam kararları doğruydu",
+          "sources": {
+            "fa": "https://www.hurriyet.com.tr/sporarena/firat-aydinus-galatasaray-ve-fenerbahce-maclarindaki-tartismali-pozisyonlari-degerlendirdi-hakem-ekibi-dogrudan-skora-tesir-etti-43386616"
+          }
+        },
+        {
+          "minute": "90+",
+          "desc": "Okan Buruk'a maç sonu 2. sarı/kırmızı kart",
+          "dab": "yanlış uygulama; yardımcı hakemle el sıkışıp tebrik etmiş, el sıkmadı diye kart görmüş",
+          "mc": "seremonide el sıkmak talimat; maç sonu el sıkmak zorunda değil; saygısızlık varsa rapor belirler, o zaman ikinci sarıdan atabilir",
+          "sources": {
+            "dab": "https://x.com/dabitnel/status/2124260913247027355",
+            "mc": "https://www.ahaber.com.tr/spor/fenerbahce/2026/11/21/mustafa-culcu-tartismali-pozisyonlari-tek-tek-yorumladi-ederson-torreira-ve-okan-buruk-kararlari"
+          }
+        },
+        {
+          "minute": "—",
+          "desc": "Okan Buruk'un ilk sarısı (yardımcıya itiraz) / maç sonu olay",
+          "fa": "ilk sarı yardımcıya itirazdan; maç sonu olay için hakem raporu/kurum açıklaması gerekir",
+          "sources": {
+            "fa": "https://x.com/firataydinus/status/2124167785118937458"
+          }
+        }
+      ]
+    }
+  ]
+}
