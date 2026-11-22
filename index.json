@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:00:00+03:00",
+  "updated_at": "2026-11-22T10:00:00+03:00",
   "matches": [
     {
       "id": "2026-10-30-konyaspor-galatasaray",
@@ -72,6 +72,30 @@
       "date": "2026-11-08",
       "title": "Çorum FK – Fenerbahçe (8 Kas)",
       "file": "matches/2026-11-08-corum-fenerbahce.json"
+    },
+    {
+      "id": "2026-11-08-rizespor-erzurumspor",
+      "date": "2026-11-08",
+      "title": "Rizespor – Erzurumspor (8 Kas)",
+      "file": "matches/2026-11-08-rizespor-erzurumspor.json"
+    },
+    {
+      "id": "2026-11-21-galatasaray-samsunspor",
+      "date": "2026-11-21",
+      "title": "Galatasaray – Samsunspor (21 Kas) 2-1",
+      "file": "matches/2026-11-21-galatasaray-samsunspor.json"
+    },
+    {
+      "id": "2026-11-21-kocaelispor-fenerbahce",
+      "date": "2026-11-21",
+      "title": "Kocaelispor – Fenerbahçe (21 Kas) 2-2",
+      "file": "matches/2026-11-21-kocaelispor-fenerbahce.json"
+    },
+    {
+      "id": "2026-11-21-amedspor-rizespor",
+      "date": "2026-11-21",
+      "title": "Amedspor – Çaykur Rizespor (21 Kas) 0-2",
+      "file": "matches/2026-11-21-amedspor-rizespor.json"
     }
   ],
   "commentators": {
