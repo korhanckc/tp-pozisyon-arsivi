@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:00:00+03:00",
+  "updated_at": "2026-11-23T10:00:00+03:00",
   "matches": [
     {
       "id": "2026-10-30-konyaspor-galatasaray",
@@ -96,6 +96,12 @@
       "date": "2026-11-21",
       "title": "Amedspor – Çaykur Rizespor (21 Kas) 0-2",
       "file": "matches/2026-11-21-amedspor-rizespor.json"
+    },
+    {
+      "id": "2026-11-22-konyaspor-besiktas",
+      "date": "2026-11-22",
+      "title": "Konyaspor – Beşiktaş (22 Kas) 2-4",
+      "file": "matches/2026-11-22-konyaspor-besiktas.json"
     }
   ],
   "commentators": {

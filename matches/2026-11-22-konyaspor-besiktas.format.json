@@ -1,0 +1,37 @@
+{
+  "matches": [
+    {
+      "title": "Konyaspor – Beşiktaş (22 Kas) 2-4",
+      "items": [
+        {
+          "minute": "50'",
+          "desc": "Vlahovic'in golü ofsayt (yarı otomatik sistem) gerekçesiyle iptal; çıplak gözle tartışma",
+          "fa": "çıplak gözle ofsayt yok gibi ama yarı otomatik sisteme göre diz ileride; karar doğru kabul edilir, ancak kararın bu kadar hızlı verilmesi önceki dakikalarca beklenen pozisyonlarla çelişiyor",
+          "dab": "çıplak gözle ofsayt değil, teknoloji ofsayt çıkardı; iptal kararına itiraz (\"vicdanları yaralayan gol iptali\")",
+          "mc": "Vlahovic az farkla dizinden ofsayt; teknolojiye güvenmek durumundayız (iptal doğru)",
+          "sources": {
+            "fa": "https://www.hurriyet.com.tr/sporarena/yazarlar/firat-aydinus/derbi-oncesi-vlahovic-ve-trossarddan-gozdagi-43387478",
+            "dab": "https://x.com/dabitnel/status/2124507623223345161",
+            "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/23/hakem-basariliydi"
+          }
+        },
+        {
+          "minute": "17'",
+          "desc": "Uğurcan'ın Poku'ya sarılarak umut vaat eden atağı kesmesi",
+          "mc": "faul verildi ama kart gösterilmedi (kartı pas geçti)",
+          "sources": {
+            "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/23/hakem-basariliydi"
+          }
+        },
+        {
+          "minute": "85'",
+          "desc": "Mustafa Mohamed–Poku mücadelesi, Konyaspor penaltı bekledi",
+          "mc": "devam kararı doğru",
+          "sources": {
+            "mc": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/23/hakem-basariliydi"
+          }
+        }
+      ]
+    }
+  ]
+}
