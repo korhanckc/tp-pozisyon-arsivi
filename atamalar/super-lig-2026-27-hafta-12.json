@@ -2,7 +2,7 @@
   "lig": "super-lig",
   "sezon": "2026-27",
   "hafta": 12,
-  "guncelleme": "2026-11-22T12:06:00+03:00",
+  "guncelleme": "2026-11-23T12:12:00+03:00",
   "maclar": [
     {
       "tarih": "2026-11-21",
@@ -167,11 +167,12 @@
         "Hüseyin Aylak"
       ],
       "dorduncu": "Burak Pakkan",
-      "var": null,
-      "avar": null,
+      "var": "Özgür Yankaya",
+      "avar": "Ceyhun Sesigüzel",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2123363193842180589",
-        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589"
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2123363193842180589",
+        "var": "https://x.com/MHK_Resmi/status/2124792157357896033"
       }
     }
   ]
