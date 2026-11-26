@@ -1,0 +1,179 @@
+{
+  "lig": "super-lig",
+  "sezon": "2026-27",
+  "hafta": 13,
+  "guncelleme": "2026-11-26T12:50:00+03:00",
+  "maclar": [
+    {
+      "tarih": "2026-11-27",
+      "saat": "20:00",
+      "ev": "Alanyaspor",
+      "dep": "Konyaspor",
+      "hakem": "Alpaslan Şen",
+      "yardimcilar": [
+        "Yusuf Susuz",
+        "Mücahid Adem Çelebi"
+      ],
+      "dorduncu": "Ayberk Demirbaş",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-27",
+      "saat": "20:00",
+      "ev": "Rizespor",
+      "dep": "Kasımpaşa",
+      "hakem": "Abdullah Buğra Taşkınsoy",
+      "yardimcilar": [
+        "Mustafa Savranlar",
+        "Murat Ergin Gözütok"
+      ],
+      "dorduncu": "Süleyman Bahadır",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-28",
+      "saat": "16:00",
+      "ev": "Samsunspor",
+      "dep": "Gençlerbirliği",
+      "hakem": "Oğuzhan Aksu",
+      "yardimcilar": [
+        "Mehmet Emin Tuğral",
+        "Özcan Sultanoğlu"
+      ],
+      "dorduncu": "Muhammet Ali Metoğlu",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-28",
+      "saat": "19:00",
+      "ev": "Gaziantep FK",
+      "dep": "Amedspor",
+      "hakem": "Fatih Tokail",
+      "yardimcilar": [
+        "Samet Çiçek",
+        "Ali Can Alp"
+      ],
+      "dorduncu": "Yiğit Arslan",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-29",
+      "saat": "13:30",
+      "ev": "Çorum FK",
+      "dep": "Kocaelispor",
+      "hakem": "Erdem Mertoğlu",
+      "yardimcilar": [
+        "Samet Çavuş",
+        "Mert Bulut"
+      ],
+      "dorduncu": "Raşit Yorgancılar",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-29",
+      "saat": "16:00",
+      "ev": "Eyüpspor",
+      "dep": "Başakşehir",
+      "hakem": "Mehmet Türkmen",
+      "yardimcilar": [
+        "Gökhan Barcın",
+        "Azad İlhan"
+      ],
+      "dorduncu": "Emre Kargın",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-29",
+      "saat": "19:00",
+      "ev": "Fenerbahçe",
+      "dep": "Erzurumspor",
+      "hakem": "Batuhan Kolak",
+      "yardimcilar": [
+        "Murat Tuğberk Curbay",
+        "Esat Sancaktar"
+      ],
+      "dorduncu": "Direnç Tonusluoğlu",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-30",
+      "saat": "19:00",
+      "ev": "Göztepe",
+      "dep": "Trabzonspor",
+      "hakem": "Cihan Aydın",
+      "yardimcilar": [
+        "Candaş Elbil",
+        "Suat Güz"
+      ],
+      "dorduncu": "Ömer Tolga Güldibi",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    },
+    {
+      "tarih": "2026-11-30",
+      "saat": "21:00",
+      "ev": "Beşiktaş",
+      "dep": "Galatasaray",
+      "hakem": "Oğuzhan Çakır",
+      "yardimcilar": [
+        "Anıl Usta",
+        "Bersan Duran"
+      ],
+      "dorduncu": "Alper Akarsu",
+      "var": null,
+      "avar": null,
+      "kaynaklar": {
+        "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+      }
+    }
+  ]
+}
