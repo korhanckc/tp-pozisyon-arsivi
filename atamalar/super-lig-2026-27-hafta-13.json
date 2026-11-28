@@ -2,7 +2,7 @@
   "lig": "super-lig",
   "sezon": "2026-27",
   "hafta": 13,
-  "guncelleme": "2026-11-27T12:12:00+03:00",
+  "guncelleme": "2026-11-28T12:10:00+03:00",
   "maclar": [
     {
       "tarih": "2026-11-27",
@@ -55,12 +55,13 @@
         "Özcan Sultanoğlu"
       ],
       "dorduncu": "Muhammet Ali Metoğlu",
-      "var": null,
-      "avar": null,
+      "var": "Volkan Bayarslan",
+      "avar": "Süleyman Özay",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
         "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
-        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "var": "https://x.com/MHK_Resmi/status/2126601852532015545"
       }
     },
     {
@@ -74,12 +75,13 @@
         "Ali Can Alp"
       ],
       "dorduncu": "Yiğit Arslan",
-      "var": null,
-      "avar": null,
+      "var": "Davut Dakul Çelik",
+      "avar": "Furkan Ürün",
       "kaynaklar": {
         "hakem": "https://x.com/MHK_Resmi/status/2125885147707043935",
         "yardimcilar": "https://x.com/MHK_Resmi/status/2125885147707043935",
-        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935"
+        "dorduncu": "https://x.com/MHK_Resmi/status/2125885147707043935",
+        "var": "https://x.com/MHK_Resmi/status/2126601852532015545"
       }
     },
     {
